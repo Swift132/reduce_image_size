@@ -1,1 +1,8 @@
-# reduce_image_size
+# Image Size Reducer
+
+Este script em Python reduz o tamanho de todas as imagens JPG em uma pasta especificada para um tamanho máximo de 500 KB.
+
+## Requisitos
+
+- Python 3.x
+- Biblioteca Pillow

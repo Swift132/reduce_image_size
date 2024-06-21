@@ -39,9 +39,9 @@ def process_images_in_folder(input_folder, output_folder, target_size_kb):
             reduce_image_size(input_path, output_path, target_size_kb)
 
 # Caminho para o diretório de input
-input_folder = 'caminho/para/sua/pasta_de_entrada'
+input_folder = './'
 # Caminho para o diretório de input
-output_folder = 'caminho/para/sua/pasta_de_saida'
+output_folder = './output'
 # Tamanho output em KB
 target_size_kb = 500
 
